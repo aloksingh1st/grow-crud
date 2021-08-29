@@ -1,0 +1,37 @@
+
+.main-conatainer{
+    display: flex;
+    margin-top: 2rem;
+    flex-direction: column;
+    
+}
+
+.cards-container{
+    display: flex;
+    margin: auto;
+    box-shadow: 5px 5px 15px black;
+    padding: 14px;
+    
+}
+
+
+.card{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 66px;
+    width: 192px;
+    border: gray 2px solid;
+    line-height: 66px;
+}
+
+.card button{
+    margin: 10px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    
+}
+.dl-button{
+    font-size: 1.5rem;
+}

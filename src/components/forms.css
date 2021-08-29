@@ -1,0 +1,32 @@
+.form-container{
+    border: gray 2px solid;
+    border-radius: 2rem;
+    height: 25rem;
+    margin: auto;
+    margin-top: 2rem;
+    width: 30rem;
+    display: block;
+    box-shadow: 5px 5px 15px black;
+}
+
+
+input{
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+    outline: none;
+    border: none;
+    padding: 0.3rem;
+    border-bottom: 3px solid gray;
+    height: 1.5rem;
+    width: 24rem;
+    display: block;
+}
+.add{
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+    margin: 47px 174px;
+    box-shadow: 2px 2px 5px black;
+    
+}

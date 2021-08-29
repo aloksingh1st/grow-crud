@@ -1,0 +1,26 @@
+.main-conatainerh{
+    display: flex;
+    margin-top: 25px;
+    flex-direction: column;
+    
+}
+
+.cards-containerh{
+    display: flex;
+    margin: auto;
+    box-shadow: 5px 5px 15px black;
+    padding: 11px;
+    
+}
+
+
+.cardh{
+    /* padding: 21px; */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 36px;
+    width: 192px;
+    font-size: larger;
+    border: gray 2px solid;
+}
