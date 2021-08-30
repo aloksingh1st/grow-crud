@@ -1,0 +1,13 @@
+@media (max-width:51rem){
+ *{
+     width: 30rem;
+     text-align: center;
+     /* margin: auto; */
+     /* justify-content: center; */
+
+ }   
+ .form-container{
+    width: 25rem;
+    height: 20rem;
+ }
+}

@@ -23,7 +23,7 @@ const Cards = (props) => {
     const addItem = (e) =>{
         e.preventDefault();
         if(!inputData || !inputQuant || !inputPass){
-            alert("Bhaag bsdk"); 
+            alert("Please Enter a Valid Data"); 
         }
         else if(inputData && toggleButton){
             setItems(
