@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/grow-crud/static/css/main.06d89772.chunk.css",
+    "main.js": "/grow-crud/static/js/main.48b7b3b0.chunk.js",
+    "main.js.map": "/grow-crud/static/js/main.48b7b3b0.chunk.js.map",
+    "runtime-main.js": "/grow-crud/static/js/runtime-main.3336cbb0.js",
+    "runtime-main.js.map": "/grow-crud/static/js/runtime-main.3336cbb0.js.map",
+    "static/js/2.ffd3c1f6.chunk.js": "/grow-crud/static/js/2.ffd3c1f6.chunk.js",
+    "static/js/2.ffd3c1f6.chunk.js.map": "/grow-crud/static/js/2.ffd3c1f6.chunk.js.map",
+    "index.html": "/grow-crud/index.html",
+    "static/css/main.06d89772.chunk.css.map": "/grow-crud/static/css/main.06d89772.chunk.css.map",
+    "static/js/2.ffd3c1f6.chunk.js.LICENSE.txt": "/grow-crud/static/js/2.ffd3c1f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3336cbb0.js",
+    "static/js/2.ffd3c1f6.chunk.js",
+    "static/css/main.06d89772.chunk.css",
+    "static/js/main.48b7b3b0.chunk.js"
+  ]
+}
